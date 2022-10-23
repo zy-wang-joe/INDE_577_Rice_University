@@ -12,17 +12,17 @@ For this repository, each sub-repository is named by an algorithm name, and it c
 Programming language used in this repository is Python 3.
 
 The following topics have been covered in class:
--Supervised Learning
---K-Nearest Neighbors
---Linear Regression
---Logistic Regression
---Perceptron
---Multilayer Neural Network Using Stochastic/Mini Batch Gradient Descent
---Decision Tree
---Ensemble Learning and Random Forest
+- Supervised Learning
+    - K-Nearest Neighbors
+    - Linear Regression
+    - Logistic Regression
+    - Perceptron
+    - Multilayer Neural Network Using Stochastic/Mini Batch Gradient Descent
+    - Decision Tree
+    - Ensemble Learning and Random Forest
 
--Unsupervised Learning
---Principal Component Analysis and K-Means
---Optimization methods
---Gradient Descent
---Model Comparison
+- Unsupervised Learning
+    - Principal Component Analysis and K-Means
+- Optimization methods
+    - Gradient Descent
+- Model Comparison
