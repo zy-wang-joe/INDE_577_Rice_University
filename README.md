@@ -1,5 +1,5 @@
 # INDE 577 Rice University
-
+by [Zheyi Wang](https://github.com/zy-wang-joe)
 ## Course Description
 This repository is for code assignments of course INDE577, Data Science and Machine Learning, of Rice University in Fall 2022. This data science course covers algorithms from supervised learning, unsupervised learning. Course topics consist of supervised learning, unsupervised learning, and optimization methods.
 
