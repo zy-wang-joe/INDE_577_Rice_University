@@ -20,7 +20,7 @@ The following topics have been covered in class:
     - Multilayer Neural Network Using Stochastic/Mini Batch Gradient Descent
     - Decision Tree
     - Ensemble Learning and Random Forest
-
+    
 - Unsupervised Learning
     - Principal Component Analysis and K-Means
 - Optimization methods

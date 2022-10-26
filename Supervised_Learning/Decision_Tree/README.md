@@ -27,3 +27,22 @@ When used for classification, Decision Tree starts with a root node of a tree th
     - All samples in the node have the same class
     - Number of samples in the node smaller than or equal to the specified minimum number of samples required to split the node
     - The tree has reached maximum depth
+
+## Dataset
+Wine dataset have three classes of target labels, and 13 features, which is a good dataset for testing a new classifier.
+
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+The attributes are
+1. Alcohol
+2. Malic acid
+3. Ash
+4. Alcalinity of ash
+5. Magnesium
+6. Total phenols
+7. Flavanoids
+8. Nonflavanoid phenols
+9. Proanthocyanins
+10. Color intensity
+11. Hue
+12. OD280/OD315 of diluted wines
+13. Proline
