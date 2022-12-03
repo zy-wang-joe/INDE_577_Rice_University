@@ -2,7 +2,7 @@
 This repository represents the implementation and applications of Gradient Descent. 
 
 ## File descriptions
-"Gradient Descent.ipynb" contains the describtion and hard coding of Gradient Descent for Linear Regression algorithm, and it's applied on two regression problems.
+"Gradient_Descent.ipynb" contains the describtion and hard coding of Gradient Descent for Linear Regression algorithm, and it's applied on two regression problems.
 
 Outline:
 - Introduction
